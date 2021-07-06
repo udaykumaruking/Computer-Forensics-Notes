@@ -1,0 +1,38 @@
+<h3>Worms</h3>
+
+This is a malicious program category, exploiting operating system vulnerabilities to spread itself. Worms can reproduce or duplicate and spread themselves. During this process, worms don't require to attach themselves to any existing program or executable.
+
+<h3>Viruses</h3>
+
+This is a malicious program able to inject its code into other programs/applications or data files and other targeted areas become Infected. Installation of a virus is done without the user's consent and spreads in form of executable code transferred from one host to another.
+
+<h3>Comparison</h3>
+
+<table>
+<thead>
+<tr>
+  <th>Worms</th>
+  <th>Viruses</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>A worm has the ability to self propagate, and may (or) may not have malicious intent computer worm is a program that self propagates across a network exploiting security or network flaws</td>
+  <td>A virus is a malicious program that spreads using a propagation technique that generally requires user intervention, and always possess a malicious intent</td>
+</tr>
+<tr>
+  <td>Worms don't need a host.</td>
+  <td>Viruses need a host.</td>
+</tr>
+<tr>
+  <td>These spreads quickly</td>
+  <td>Spreads slower when compared with worms.</td>
+</tr>
+<tr>
+  <td>Eg: Email worms, internet worms, Network Worms.</td>
+  <td>Eg: Resident virus, non-resident virus, boot virus, polymorphic virus.</td>
+</tr>
+</tbody>
+</table>
+
+Thank You.
